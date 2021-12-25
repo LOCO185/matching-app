@@ -1,0 +1,9 @@
+.card {
+  max-height: 60vh;
+}
+.card img {
+  max-height: inherit;
+  width: 80vmin;
+  object-fit: cover;
+  border-radius: 10px;
+}
